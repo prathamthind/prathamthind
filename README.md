@@ -16,7 +16,6 @@
 -   ⚛  ReactJS 
 -   🇹 TypeScript
 -   📡  Node.js
--   🗄  MongoDB
 
 ### Skills
 
