@@ -14,8 +14,9 @@
 -    🏗 Javascript 
 -   🌀  Tailwind CSS 
 -   ⚛  ReactJS 
--    ✨ TypeScript
--   🔜  Node.js
+-   🇹 TypeScript
+-   📡  Node.js
+-   🗄  MongoDB
 
 ### Skills
 
