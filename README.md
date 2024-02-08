@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋  Hi there, I'm Pratham
 
-<!--
-**prathamthind/prathamthind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   💻  Self-taught web developer 
+-   ⚡  Fast learner
+
+### Stack
+
+-   📑  HTML
+-   🎨  CSS
+-    🏗 Javascript 
+-   🌀  Tailwind CSS 
+-   ⚛  ReactJS 
+-    ✨ TypeScript
+-   🔜  Node.js
+
+### Skills
+
+-  Web application development 
+-  Website development 
