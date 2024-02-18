@@ -19,5 +19,6 @@
 
 ### Skills
 
--  Web application development 
--  Website development 
+-  Web Design
+-  Website Development 
+-  Digital Advertisement 
