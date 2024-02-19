@@ -4,7 +4,7 @@
 
 ### About
 
--   💻  Self-taught web developer 
+-   💻  Self-taught Web Developer 
 -   ⚡  Fast learner
 
 ### Stack
@@ -21,4 +21,4 @@
 
 -  Web Design
 -  Website Development 
--  Digital Advertisement 
+-  Digital Marketing 
