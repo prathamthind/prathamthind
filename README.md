@@ -5,10 +5,9 @@
 ### About
 
 -   💻  Self-taught Web Developer 
--   ⚡  Fast learner
 
 ### Skills
 
--  Web Design
+-  Website UI/UX Design
 -  Website Development 
 -  Digital Marketing 
