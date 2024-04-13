@@ -4,11 +4,11 @@
 
 ### About
 
--   💻  Self-taught Full Stack Web Developer 
+-   Self-taught Full Stack Web Developer 
 
 ### Skills
 
 -  Website UI/UX Design
 -  Website Development 
--  Digital Marketing 
--  Negotiations & Sales
+-  Digital Marketing | Paid Ads
+-  Sales
