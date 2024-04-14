@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs , ExpressJs**
 
-- 🤝 I’m looking for help with **Fereto Project**
+- 🤝 I’m looking for help with **Fereto - New Era**
 
 - 💬 Ask me about **ReactJs**
 
