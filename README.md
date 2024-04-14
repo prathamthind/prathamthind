@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Thind</h1>
-<h3 align="center">A passionate Full-Stack developer from Singapore</h3>
+<h3 align="center">A passionate Full-Stack Developer from Singapore</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Freelance Projects**
 
 - 🌱 I’m currently learning **NodeJs , ExpressJs**
 
