@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Fereto - New Era**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **thindincorporation@gmail.com**
 
