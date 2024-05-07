@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **NodeJs , ExpressJs**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Fereto - New Era**
+- 🤝 I’m looking for help with **Backend**
 
 - 💬 Ask me about **Frontend**
 
