@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Thind</h1>
 <h3 align="center">A passionate Full-Stack Developer from Singapore</h3>
 
-- 🔭 I’m currently working on **Freelance Projects**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Backend**
-
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **thindincorporation@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.prathamthind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.prathamthind" height="30" width="40" /></a>
