@@ -5,7 +5,7 @@
 
 ## 🌐 Where to find me
 
-[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/xcodecat)
+[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 
 ## 💻 Tech Stack
