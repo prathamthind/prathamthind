@@ -3,11 +3,6 @@
 🚀 I'm currently diving deeper into programming and creative tools.  
 💡 I enjoy building things, learning by doing, and exploring new technologies - Backend and APIs.
 
-## 🌐 Where to find me
-
-[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-
-
 ## 💻 Tech Stack
 
 ### 🖥️ Web & Backend  
